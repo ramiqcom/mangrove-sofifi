@@ -15,3 +15,4 @@ scikit-learn~=1.5
 scipy~=1.14
 tensorflow~=2.18
 ydf~=0.8
+xgboost~=2.1
